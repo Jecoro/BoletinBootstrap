@@ -1,0 +1,9 @@
+body{
+    background-image:url("../img/image.jpg");
+    background-repeat: none;
+    background-size: 100%;
+}
+.carrousel{
+    margin-top: 200px;
+    margin-right: 350px;
+}
