@@ -1,0 +1,17 @@
+.encabezado{
+    background-color: black;
+}
+.boton{
+    border: 1px solid white;
+    color: white;
+}
+.icono{
+    font-size: 30px;
+    margin-right: 15px;
+    margin-top: 10px;
+    color: white;
+}
+.busqueda{
+    margin-right: 20px;
+    margin-top: 8px;
+}
